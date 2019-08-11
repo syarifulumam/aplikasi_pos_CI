@@ -1,9 +1,7 @@
 ###################
 Demo
 ###################
-
- `Link
-<http://kasirwarong.000webhostapp.com>`_ .
+http://kasirwarong.000webhostapp.com
 ###################
 What is CodeIgniter
 ###################
